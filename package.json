@@ -1,0 +1,21 @@
+{
+  "name": "generator-pi-init",
+  "version": "0.1.0",
+  "description": "A basic generator for pi-* project. Including linter, builder, task runner, etc.",
+  "main": "app/index.js",
+  "files": [
+    "app"
+  ],
+  "dependencies": {
+    "yeoman-generator": "^0.22.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "author": "juaniyyoo",
+  "license": "MIT"
+}
