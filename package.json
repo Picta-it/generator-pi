@@ -15,7 +15,12 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "yeoman-generator pi pi-*"
+    "yeoman-generator",
+    "bootstrap",
+    "linter",
+    "continuous integration",
+    "ci",
+    "pi"
   ],
   "author": "juaniyyoo",
   "license": "MIT"
